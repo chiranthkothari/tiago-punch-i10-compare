@@ -29,7 +29,8 @@ Source: deep-research workflow (Tata.ev official + CarDekho/CarWale/Autocar/ZigW
 - Mileage: ~20.7 kmpl ARAI (petrol MT); AMT ~16 kmpl; CNG ~27 km/kg
 - Fuel tank: 37 L. Petrol range/tank ≈ 37 × 20.7 ≈ ~765 km (indicative)
 - Dims: 3815 x 1680 x 1520 mm, WB 2450, boot 260 L, GC 165 mm
-- Colours (7 mono): Fiery Red, Atlas White, Typhoon Silver, Titan Grey, Amazon Grey, Teal Blue, Spark Green + dual-tone (Atlas White / Spark Green + Abyss Black roof)
+- Colours (6, per official brochure Apr 2026): Fiery Red, Typhoon Silver, Titan Grey, Titan Grey Matte (new), Teal Blue, Atlas White. NO dual-tone in current brochure. (Amazon Grey / Spark Green were stale CarWale shades — removed.)
+- NOTE: brochure does NOT list mileage, boot litres, ground clearance or prices — those (20.7 kmpl, 260 L, 165 mm, Rs 5.60-8.04L) are third-party/dealer figures, not contradicted by the brochure.
 - Features: 8" touchscreen (WIRED CarPlay/AA), semi-digital cluster (analog + 3.5" MID), NO sunroof, rear AC vents (Magna+), 15" diamond-cut alloys (top), auto climate (Asta), cruise (Sportz+), wireless charger + push start (Asta). No full Bluelink telematics.
 - Safety: 6 airbags standard, ABS+EBD, ESC, hill-start assist, ISOFIX, rear cam + sensors. 2-star Global NCAP (2020). No Bharat NCAP.
 - 2026: no facelift; continues 2023 update; "Vibe Edition" special (~Rs 7.09 L).
